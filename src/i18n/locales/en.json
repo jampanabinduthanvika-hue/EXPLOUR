@@ -1,0 +1,117 @@
+{
+  "nav": {
+    "home": "Home",
+    "planMyTrip": "Plan My Trip",
+    "explore": "Explore",
+    "map": "Interactive Map",
+    "myItineraries": "My Itineraries",
+    "travelUpdates": "Travel Updates",
+    "profile": "Profile",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "database": "Supabase Hub"
+  },
+  "hero": {
+    "headline": "Plan More. Spend Less. Explore Smarter.",
+    "subtitle": "Tell us where you're going, your budget, and how much time you have. Explour builds a practical, weather-optimized travel plan.",
+    "planTrip": "Plan My Trip",
+    "exploreDestinations": "Explore Destinations",
+    "searchPlaceholder": "Search cities, states or attractions (e.g. Goa, Leh, Munnar)...",
+    "popularDestinations": "Popular Destinations",
+    "metrics": {
+      "verifiedAttractions": "100+ Curated Attractions",
+      "indianStates": "11 States & UTs",
+      "liveAlerts": "Real-time Weather & Traffic",
+      "smartReplanning": "Dynamic Budget Intelligence"
+    }
+  },
+  "planner": {
+    "title": "Smart Travel Intelligence Engine",
+    "subtitle": "Configure your parameters and let our optimization algorithm construct your context-aware Indian itinerary.",
+    "selectDestination": "Destination City",
+    "budget": "Total Trip Budget",
+    "days": "Duration",
+    "groupSize": "Group Size",
+    "transport": "Preferred Transport",
+    "interests": "Travel Interests",
+    "generate": "Generate Optimized Itinerary",
+    "generating": "Analyzing distances, fees & weather...",
+    "daysCount": "{{count}} Day",
+    "daysCount_plural": "{{count}} Days",
+    "day": "Day",
+    "totalBudget": "Total Budget",
+    "estimatedSpend": "Estimated Spend",
+    "remainingBudget": "Remaining",
+    "budgetHealth": "Budget Utilization",
+    "replanTrip": "Dynamic Replanning",
+    "saveItinerary": "Save to My Trips",
+    "savedSuccess": "Itinerary saved to your account!",
+    "printItinerary": "Print Itinerary",
+    "routeMap": "Day-wise Optimized Route",
+    "weatherAdvisory": "Contextual Travel Advisory",
+    "noConflicts": "Optimized sequence with zero timetable overlaps"
+  },
+  "replanner": {
+    "modalTitle": "Dynamic Context Replanner",
+    "modalDesc": "Adjust budget or duration. Explour automatically preserves completed activities, removes costly bottlenecks, and re-optimizes routes.",
+    "newBudget": "Adjusted Budget (₹)",
+    "newDuration": "Adjusted Duration",
+    "recalculate": "Apply & Re-optimize",
+    "savingsNotice": "Replanning optimization saved ₹{{amount}}"
+  },
+  "explore": {
+    "title": "Explore Indian Attractions",
+    "subtitle": "Discover curated heritage forts, backwaters, high-altitude passes, and coastal paradises.",
+    "filterState": "All States",
+    "filterCity": "All Cities",
+    "filterCategory": "All Categories",
+    "search": "Search attractions...",
+    "sortBy": "Sort By",
+    "sortPopular": "Most Popular",
+    "sortCheapest": "Budget Friendly (Low Fee)",
+    "sortDuration": "Shortest Duration",
+    "entryFee": "Entry Fee",
+    "free": "Free Entry",
+    "timings": "Timings",
+    "duration": "Duration",
+    "addToTrip": "Add to Trip",
+    "addedToTrip": "Added!",
+    "viewDetails": "View Details"
+  },
+  "feed": {
+    "title": "Real-Time Travel Updates",
+    "subtitle": "Live crowdsourced advisories, official tourism department alerts, and weather advisories across India.",
+    "postUpdate": "Post Live Update",
+    "allCities": "All Cities",
+    "allCategories": "All Categories",
+    "shareExperience": "Share real-time alert or tip...",
+    "verifiedNotice": "Official & Verified Local Feeds"
+  },
+  "myTrips": {
+    "title": "My Saved Itineraries",
+    "subtitle": "Access, monitor, and execute your planned journeys across India.",
+    "noTrips": "You haven't planned any trips yet. Generate your first smart itinerary!",
+    "status": "Status",
+    "viewTrip": "View Itinerary",
+    "deleteTrip": "Delete"
+  },
+  "auth": {
+    "signInTitle": "Welcome to Explour",
+    "signInSubtitle": "Sign in with your email or test as guest to manage itineraries.",
+    "emailLabel": "Email Address",
+    "passwordLabel": "Password",
+    "signInBtn": "Sign In",
+    "signUpBtn": "Create Account",
+    "guestBtn": "Continue as Guest Traveler",
+    "alreadyHaveAccount": "Already have an account? Sign In",
+    "needAccount": "Need an account? Sign Up",
+    "signOutSuccess": "Signed out successfully"
+  },
+  "common": {
+    "currency": "₹",
+    "minutes": "mins",
+    "hours": "hrs",
+    "loading": "Loading travel intelligence...",
+    "close": "Close"
+  }
+}

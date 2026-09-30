@@ -1,0 +1,6 @@
+{
+  "name": "Explour — India Travel Intelligence",
+  "description": "Context-aware dynamic travel intelligence platform for India. Intelligently optimizes, visualizes, and adapts travel itineraries based on budget, weather, and real-world constraints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

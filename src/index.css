@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+/* Leaflet Container and Custom Pin Adjustments */
+.leaflet-container {
+  font-family: inherit;
+  background-color: #0f172a;
+}
+
+.custom-map-pin {
+  background: transparent;
+  border: none;
+}
+
+.leaflet-popup-content-wrapper {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.5);
+  padding: 4px;
+}
+
+.leaflet-popup-tip {
+  background-color: #ffffff;
+}
+
+/* Hide scrollbar for clean tab carousels */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
